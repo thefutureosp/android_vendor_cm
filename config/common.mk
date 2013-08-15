@@ -167,7 +167,8 @@ PRODUCT_PACKAGES += \
     Apollo \
     CMUpdater \
     CMFileManager \
-    LockClock
+    LockClock \
+    PermissionsManager
 
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
