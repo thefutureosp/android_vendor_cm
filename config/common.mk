@@ -167,7 +167,6 @@ PRODUCT_PACKAGES += \
     CMUpdater \
     CMFileManager \
     LockClock \
-    PermissionsManager \
     CMAccount
 
 # CM Hardware Abstraction Framework
